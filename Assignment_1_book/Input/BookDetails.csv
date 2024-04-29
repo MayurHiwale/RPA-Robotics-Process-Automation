@@ -1,0 +1,13 @@
+BookId,BookName,AuthorName,Category,SubType,Price Per Book,Quantity
+B001,To Kill a Mockingbird,Harper Lee,Fiction,Classic,560,20
+B002,The Catcher in the Rye,J.D. Salinger,Fiction,Classic,230,15
+B003,The Great Gatsby,F. Scott Fitzgerald,Fiction,Classic,555,25
+B004,Animal Farm,George Orwell,Fiction,Classic,456,18
+B005,1984,George Orwell,Fiction,Dystopian,345,10
+B006,The Hobbit,J.R.R. Tolkien,Fiction,Fantasy,890,23
+B007,The Lord of the Rings,J.R.R. Tolkien,Fiction,Fantasy,100,30
+B008,The Da Vinci Code,Dan Brown,Non-Fiction,Mystery,234,12
+B009,"Thinking, Fast and Slow",Daniel Kahneman,Non-Fiction,Psychology,123,8
+B010,The Selfish Gene,Richard Dawkins,Non-Fiction,Science,342,22
+B011,A Brief History of Time,Stephen Hawking,Non-Fiction,Science,678,25
+B012,The Art of War,Sun Tzu,Non-Fiction,Strategy,645,7
