@@ -1,0 +1,747 @@
+2024/05/23 15:15:05 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:05 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:05 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:06 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:06 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:13 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:13 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:13 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:13 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:13 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7318 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:13 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:13 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:13 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:13 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:13 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:13 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:14 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:14 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:21 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:21 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:22 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:22 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:22 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7642 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:22 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:22 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:22 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:22 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:22 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:22 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:22 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:22 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:22 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:30 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:30 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:30 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:30 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:30 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7765 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:30 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:30 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:30 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:30 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:30 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:30 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:30 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:30 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:31 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:37 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:38 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:38 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:38 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:38 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7190 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:38 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:38 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:38 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:38 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:38 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:38 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:38 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:39 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:45 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:45 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:45 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:46 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:46 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6982 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:46 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:46 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:46 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:46 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:46 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:46 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:46 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:46 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:46 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:53 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:54 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:15:54 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:54 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:15:54 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7475 , execution units : 0 , max number of executions : 12
+2024/05/23 15:15:54 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:54 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:54 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:54 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:55 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:15:54 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:15:54 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:54 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:15:54 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:15:55 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:16:00 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:01 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:16:01 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:16:01 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:16:01 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6624 , execution units : 0 , max number of executions : 12
+2024/05/23 15:16:01 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:16:01 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:16:01 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:01 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:16:01 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:02 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:16:01 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:01 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:16:01 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:02 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:16:09 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:09 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 15:16:09 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 15:16:09 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 15:16:09 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7468 , execution units : 0 , max number of executions : 12
+2024/05/23 15:16:09 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:16:09 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:09 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:16:10 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:10 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:16:09 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 15:16:09 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:09 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 15:16:10 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 15:16:10 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 15:16:21 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser : 
+2024/05/23 15:16:21 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 9.354
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64687}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 60fa345d73bdb4cde4242cdf55835ef6
+2024/05/23 15:16:21 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2024/05/23 15:16:21 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 15:16:21 - Start Browser.0 - 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 15:16:21 - Start Browser.0 - 	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+2024/05/23 15:16:21 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+2024/05/23 15:16:21 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.getUrl(BeginStep.java:229)
+2024/05/23 15:16:21 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.processRow(BeginStep.java:179)
+2024/05/23 15:16:21 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.BaseStep._processRow(BaseStep.java:4141)
+2024/05/23 15:16:21 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.RunThread.run(RunThread.java:65)
+2024/05/23 15:16:21 - Start Browser.0 - 	at java.base/java.lang.Thread.run(Unknown Source)
+2024/05/23 15:16:21 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser Google Chrome
+2024/05/23 15:16:21 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 15:16:21 - WF_child - Workflow detected one or more steps with errors.
+2024/05/23 15:16:21 - WF_child - Workflow is killing the other steps!
+2024/05/23 15:16:21 - Intermediate Status.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 15:16:21 - MEW_company_details.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 15:16:22 - WT.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 15:16:22 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 4 , execution units : 0 , max number of executions : 1
+2024/05/23 15:16:22 - Workflow Executor.0 - ERROR (version 7.6.1 from 2023-11-20) : 
+2024/05/23 15:16:22 - Workflow Executor.0 - Unable to start browser Google Chrome
+2024/05/23 15:16:22 - Workflow Executor.0 - Finished processing (I=0, O=0, R=9, W=0, U=0, E=1)
+2024/05/23 16:03:19 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:03:19 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:03:19 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:03:19 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:03:19 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:03:31 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser : 
+2024/05/23 16:03:31 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 8.558
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e8862c4db1c1a795ead049ba2772c3e8
+2024/05/23 16:03:31 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2024/05/23 16:03:31 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 16:03:31 - Start Browser.0 - 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 16:03:31 - Start Browser.0 - 	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+2024/05/23 16:03:31 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+2024/05/23 16:03:31 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.getUrl(BeginStep.java:229)
+2024/05/23 16:03:31 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.processRow(BeginStep.java:179)
+2024/05/23 16:03:31 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.BaseStep._processRow(BaseStep.java:4141)
+2024/05/23 16:03:31 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.RunThread.run(RunThread.java:65)
+2024/05/23 16:03:31 - Start Browser.0 - 	at java.base/java.lang.Thread.run(Unknown Source)
+2024/05/23 16:03:31 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser Google Chrome
+2024/05/23 16:03:31 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 16:03:31 - WF_child - Workflow detected one or more steps with errors.
+2024/05/23 16:03:31 - WF_child - Workflow is killing the other steps!
+2024/05/23 16:03:31 - Intermediate Status.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:03:31 - WT.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:03:31 - MEW_company_details.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:03:31 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 3 , execution units : 0 , max number of executions : 1
+2024/05/23 16:03:31 - Workflow Executor.0 - ERROR (version 7.6.1 from 2023-11-20) : 
+2024/05/23 16:03:31 - Workflow Executor.0 - Unable to start browser Google Chrome
+2024/05/23 16:03:31 - Workflow Executor.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 16:05:48 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:05:48 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:05:48 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:05:48 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:05:49 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:06:16 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:16 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:06:17 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:17 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:17 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 28019 , execution units : 0 , max number of executions : 12
+2024/05/23 16:06:17 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:17 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:17 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:17 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:17 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:17 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:17 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:17 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:18 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:06:32 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:32 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:06:32 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:33 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:33 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 15080 , execution units : 0 , max number of executions : 12
+2024/05/23 16:06:33 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:33 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:33 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:33 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:33 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:33 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:33 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:33 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:33 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:06:41 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:41 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:06:41 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:41 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:41 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 8069 , execution units : 0 , max number of executions : 12
+2024/05/23 16:06:41 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:42 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:42 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:42 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:41 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:42 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:42 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:42 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:42 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:06:51 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:51 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:06:51 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:51 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:06:51 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 9230 , execution units : 0 , max number of executions : 12
+2024/05/23 16:06:51 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:51 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:51 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:51 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:06:51 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:51 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:06:52 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:52 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:06:59 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:06:59 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:06:59 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:00 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:00 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7405 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:00 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:00 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:00 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:00 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:00 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:00 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:00 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:00 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:00 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:00 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:07 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:07 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:07:07 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:07 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:07 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7255 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:07 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:07 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:08 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:07 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:07 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:08 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:08 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:08 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:35 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:35 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:07:35 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:35 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:35 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 27141 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:36 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:36 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:36 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:43 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:44 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:07:44 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:44 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:44 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7941 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:44 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:44 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:44 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:44 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:44 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:44 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:44 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:44 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:45 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:51 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:51 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:07:51 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:51 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:51 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6683 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:51 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:51 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:51 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:52 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:51 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:51 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:51 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:52 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:52 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:07:58 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:58 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:07:58 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:58 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:07:58 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6095 , execution units : 0 , max number of executions : 12
+2024/05/23 16:07:58 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:58 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:58 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:58 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:58 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:07:58 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:58 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:07:58 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:07:59 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:05 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:05 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:06 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:06 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:06 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6893 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:06 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:06 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:06 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:06 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:06 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:06 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:06 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:06 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:06 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:13 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:13 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:14 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:14 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:14 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7273 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:14 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:14 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:14 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:14 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:14 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:14 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:14 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:14 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:21 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:21 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:22 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:22 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:22 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7341 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:22 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:22 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:22 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:22 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:22 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:22 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:22 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:23 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:34 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:34 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:34 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:35 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:35 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 12071 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:35 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:35 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:35 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:42 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:42 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:42 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:43 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:43 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7239 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:43 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:43 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:43 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:43 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:43 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:43 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:43 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:43 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:49 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:50 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:50 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:50 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:50 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 6813 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:50 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:50 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:50 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:50 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:50 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:08:50 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:50 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:08:50 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:51 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:08:58 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:08:58 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:08:58 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:59 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:08:59 - WF_child - Workflow Result [ WF_child ]  :: Time (in millisecs) : 7878 , execution units : 0 , max number of executions : 12
+2024/05/23 16:08:59 - Workflow Executor.0 - Finished processing (I=0, O=0, R=17, W=0, U=0, E=0)
+2024/05/23 16:13:25 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:13:25 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:13:25 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:13:25 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:13:25 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:13:36 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser : 
+2024/05/23 16:13:36 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 9.378
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50778}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 45c9fa9bdcecf059d3271f8cb2c4201b
+2024/05/23 16:13:36 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+2024/05/23 16:13:36 - Start Browser.0 - 	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 16:13:36 - Start Browser.0 - 	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+2024/05/23 16:13:36 - Start Browser.0 - 	at java.base/java.lang.reflect.Constructor.newInstance(Unknown Source)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+2024/05/23 16:13:36 - Start Browser.0 - 	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+2024/05/23 16:13:36 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.getUrl(BeginStep.java:232)
+2024/05/23 16:13:36 - Start Browser.0 - 	at com.automationedge.ps.workflow.steps.begin.BeginStep.processRow(BeginStep.java:179)
+2024/05/23 16:13:36 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.BaseStep._processRow(BaseStep.java:4141)
+2024/05/23 16:13:36 - Start Browser.0 - 	at com.automationedge.ps.workflow.step.RunThread.run(RunThread.java:65)
+2024/05/23 16:13:36 - Start Browser.0 - 	at java.base/java.lang.Thread.run(Unknown Source)
+2024/05/23 16:13:37 - Start Browser.0 - ERROR (version 7.6.1 from 2023-11-20) : Unable to start browser Google Chrome
+2024/05/23 16:13:37 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 16:13:37 - WF_child - Workflow detected one or more steps with errors.
+2024/05/23 16:13:37 - WF_child - Workflow is killing the other steps!
+2024/05/23 16:13:37 - MEW_company_details.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:13:37 - Intermediate Status.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:13:37 - WT.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 16:13:37 - Workflow Executor.0 - ERROR (version 7.6.1 from 2023-11-20) : 
+2024/05/23 16:13:37 - Workflow Executor.0 - Unable to start browser Google Chrome
+2024/05/23 16:16:24 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:24 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:24 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:24 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 16:16:25 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:29 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:30 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:31 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:31 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:31 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:31 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:31 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:31 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:31 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:31 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:31 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:31 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:31 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:34 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:34 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:35 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:35 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:35 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:35 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:35 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:35 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:35 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:35 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:38 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:38 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:39 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:39 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:39 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:39 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:39 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:39 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:40 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:39 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:39 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:39 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:39 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:40 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:41 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:41 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:42 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:42 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:42 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:42 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:42 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:42 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:43 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:42 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:42 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:42 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:42 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:43 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:45 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:45 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:46 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:46 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:46 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:46 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:46 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:46 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:46 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:46 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:46 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:46 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:46 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:46 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:48 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:48 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:49 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:50 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:50 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:50 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:50 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:50 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:50 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:50 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:50 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:50 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:50 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:50 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:53 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:53 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:53 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:54 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:54 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:54 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:54 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:54 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:54 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:54 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:54 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:54 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:54 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:56 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:57 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:16:57 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:57 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:16:57 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:57 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:57 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:57 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:58 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:57 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:16:57 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:16:57 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:16:57 - Start Browser.0 - Driver instance found
+2024/05/23 16:16:58 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:00 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:00 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:01 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:01 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:01 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:01 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:01 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:01 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:01 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:01 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:01 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:01 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:01 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:01 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:03 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:03 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:04 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:04 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:04 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:04 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:04 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:04 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:04 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:04 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:04 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:04 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:04 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:04 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:06 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:07 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:07 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:08 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:08 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:08 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:08 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:08 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:08 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:08 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:08 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:08 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:08 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:08 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:09 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:10 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:11 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:11 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:11 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:11 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:11 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:11 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:11 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:11 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:11 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:11 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:11 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:11 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:13 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:13 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:14 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:14 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:14 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:14 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:14 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:14 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:15 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:14 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:14 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:14 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:14 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:15 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:16 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:16 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:17 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:17 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:17 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:17 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:17 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:17 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:17 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:17 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:17 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:17 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:17 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:19 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:19 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:20 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:20 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:20 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:20 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:20 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:20 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:21 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:20 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:20 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:20 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:20 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:21 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:22 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:23 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:23 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:24 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:24 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:24 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:24 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:24 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:24 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:24 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 16:17:24 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:24 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 16:17:24 - Start Browser.0 - Driver instance found
+2024/05/23 16:17:24 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:25 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 16:17:25 - WT.0 - Finished processing (I=0, O=0, R=1, W=12, U=0, E=0)
+2024/05/23 16:17:26 - Intermediate Status.0 - Finished processing (I=0, O=0, R=12, W=12, U=0, E=0)
+2024/05/23 16:17:27 - MEW_company_details.0 - Finished processing (I=0, O=13, R=12, W=12, U=0, E=0)
+2024/05/23 17:18:29 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 17:18:29 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 17:18:29 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:18:29 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 17:18:29 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:18:38 - WT.0 - ERROR (version 7.6.1 from 2023-11-20) : javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //table[@class=\"table table-striped\" because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//table[@class=\"table table-striped\"' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b69e7e0e0df13bb3d3b017951f7d4d8f
+*** Element info: {Using=xpath, value=//table[@class="table table-striped"}
+2024/05/23 17:18:38 - WT.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 17:18:38 - WF_child - Workflow detected one or more steps with errors.
+2024/05/23 17:18:38 - WF_child - Workflow is killing the other steps!
+2024/05/23 17:18:38 - MEW_company_details.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 17:18:38 - Intermediate Status.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 17:18:38 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:18:38 - Workflow Executor.0 - ERROR (version 7.6.1 from 2023-11-20) : 
+2024/05/23 17:18:38 - Workflow Executor.0 - javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //table[@class=\"table table-striped\" because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//table[@class=\"table table-striped\"' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52023}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b69e7e0e0df13bb3d3b017951f7d4d8f
+*** Element info: {Using=xpath, value=//table[@class="table table-striped"}
+2024/05/23 17:19:08 - WF_child - Dispatching started for workflow [WF_child]
+2024/05/23 17:19:08 - GV_CIN_name.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:19:08 - MJSV_part2.0 - Optimization level set to 9.
+2024/05/23 17:19:08 - Start Browser.0 - Driver is not initialized yet , creating new driver instance
+2024/05/23 17:19:08 - MJSV_part2.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:19:16 - WT.0 - ERROR (version 7.6.1 from 2023-11-20) : javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //table[@class=\"table table-striped\" because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//table[@class=\"table table-striped\"' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cff97d18276a730ec728b2b0a79e140
+*** Element info: {Using=xpath, value=//table[@class="table table-striped"}
+2024/05/23 17:19:16 - WT.0 - Finished processing (I=0, O=0, R=1, W=0, U=0, E=1)
+2024/05/23 17:19:16 - WF_child - Workflow detected one or more steps with errors.
+2024/05/23 17:19:16 - WF_child - Workflow is killing the other steps!
+2024/05/23 17:19:16 - MEW_company_details.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 17:19:16 - Start Browser.0 - Finished processing (I=0, O=0, R=1, W=1, U=0, E=0)
+2024/05/23 17:19:16 - Intermediate Status.0 - Finished processing (I=0, O=0, R=0, W=0, U=0, E=0)
+2024/05/23 17:19:17 - Workflow Executor.0 - ERROR (version 7.6.1 from 2023-11-20) : 
+2024/05/23 17:19:17 - Workflow Executor.0 - javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //table[@class=\"table table-striped\" because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//table[@class=\"table table-striped\"' is not a valid XPath expression."}
+  (Session info: chrome=125.0.6422.76)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-R7TDDB2', ip: '172.100.1.134', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.76, chrome: {chromedriverVersion: 125.0.6422.60 (3ac3319bff9f..., userDataDir: C:\Users\Mayur\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cff97d18276a730ec728b2b0a79e140
+*** Element info: {Using=xpath, value=//table[@class="table table-striped"}
